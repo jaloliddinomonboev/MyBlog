@@ -28,12 +28,6 @@ MyBlog — bu `Python` dasturlash tilida, `Django` freymvorki yordamida yaratilg
 
 ---
 
-📷 Ekranlar (Screenshots)
-
-> (Agar xohlasangiz, loyihangizdan olingan skrinshotlar joylashtiring)
-
----
-
 🔧 O‘rnatish
 
 Repozitoriyani yuklash
